@@ -1,5 +1,5 @@
 
-https://github.com/Heeexy/SpringBoot-Shiro-Vue
+https://github.com/gaowenhui/SpringBoot-Shiro-Vue-master-20180625
 
 # Spring Boot-Shiro-Vue
 提供一套基于SpringBoot-shiro-vue的权限管理思路.
