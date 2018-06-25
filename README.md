@@ -85,6 +85,6 @@ npm run dev
 后端就是常规的shiro配置,前端代码如果看不明白,可以参考[前端权限代码说明](./explain-frontend.md) 
 
 ## 分配权限页面效果
-![分配权限页面](https://github.com/gaowenhui/SpringBoot-Shiro-Vue-master-20180625/tree/master/pic/BF78F42E-BD02-4951-ACE7-36CC1B537904.png)
-![分配权限页面](https://github.com/gaowenhui/SpringBoot-Shiro-Vue-master-20180625/tree/master/pic/5F77D1C9-CC8D-4d5e-AF38-DBC7693C4970.png)
+![分配权限页面](https://github.com/gaowenhui/SpringBoot-Shiro-Vue-master-20180625/blob/master/pic/BF78F42E-BD02-4951-ACE7-36CC1B537904.png)
+![分配权限页面](https://github.com/gaowenhui/SpringBoot-Shiro-Vue-master-20180625/blob/master/pic/5F77D1C9-CC8D-4d5e-AF38-DBC7693C4970.png)
 ![分配权限页面](http://ots7yt7am.bkt.clouddn.com/blog/role_permission.png)
